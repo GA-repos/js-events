@@ -346,7 +346,7 @@ a lot of duplicate event listeners, we can apply 1 event to the parent element:
 const controlPanel = document.querySelector(".js-control-panel");
 
 controlPanel.addEventListener("click", function(event) {
-  eventt.preventDefault();
+  event.preventDefault();
 
   if (event.target.tagName === "A") {
     alert("You clicked a button!");
