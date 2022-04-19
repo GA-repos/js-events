@@ -209,7 +209,7 @@ click on our button, call the <code>handleClickEvent()</code> function.
 > 5 minutes exercise. 5 minutes review.
 
 Go to this
-[repository](https://git.generalassemb.ly/Flex-/event-listener-practice)
+[repository](https://git.generalassemb.ly/Flex-322/event-listener-practice)
 and follow the instructions.
 
 ## Break
